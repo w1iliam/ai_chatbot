@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who are you?",
+    "answer": "Hi! I'm an interactive chatbot made by William! You can have conversations with me. If you want to know more about how I work, let me know. :-)"
+  },
+  {
+    "question": "How do you work?",
+    "answer": "I'm able to function through the use of the Google Gemini API. I work similar to a regular chatbot, embedding your question and comparing it against a list of pre-designed questions. The question with the most similar vector representation is then fed into the Gemini Generative AI method, giving you an answer that feels conversationally natural. I'm designed to be used to answer FAQ documents on your website!"
+  },
+  {
+    "question": "Who is William?",
+    "answer": "William is a super cool cool guy, he's so cool. Would you like to know anything specifically about him? You can send an email to William on: williamsawtell@icloud.com. Thanks for reaching out! :-)"
+  },
+  {
+    "question": "What is William's academic and work experience?",
+    "answer": "William is a recent Computer Science graduate! Through studying at Cardiff University he has gained a solid understanding of fundamentals, and has explored research heavy fields such as Robotics and Computer Vision. For his final year project he trained a robotic arm manipulator to learn to place objects on a shelf using machine learning! In this project he recieved a grade of 78%, and overall he recieved a first-class honours degree (75%). He is continuing work on his final year project, assisting a Cardiff PhD student with their preparation for a publication. Alongside University he has also worked part time as a contracted Software Developer for DataAnnotation Tech!"
+  },
+  {
+    "question": "What does William do outside of Computer Science?",
+    "answer": "Outside of Computer Science William loves to play the electric guitar. He's currently making songs using ableton and a microphone hooked up to his PC. He also used to skateboard but has recently given it up after he became tired of frequent injuries. He also loves to chat! Hit him up on his contacts."
+  }
+]
