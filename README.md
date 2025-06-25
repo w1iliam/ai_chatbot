@@ -4,7 +4,9 @@ A webapp designed using React for frontend and Node.js and Express for backend, 
 
 *To setup:*
 
-Navigate to the client folder and run `npm install` in the terminal, do the same within the server folder.
+Navigate to the client folder and run `npm install` in the terminal.
+
+Navigate to the server folder and run `npm install` and `npm install express`.
 
 Insert an API key for Google Gemini in the client folder under the file name **.env.local**.
 
